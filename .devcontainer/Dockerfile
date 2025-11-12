@@ -20,7 +20,10 @@ RUN install_packages \
   wget \
   jq \
   zip \
-  openssh-client
+  openssh-client \
+  ca-certificates
+
+RUN update-ca-certificates
 
 RUN echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
   && chmod 0440 /etc/sudoers.d/$USERNAME
