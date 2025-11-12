@@ -18,7 +18,9 @@
 				"vscjava.vscode-java-pack",
 				"codium.codium",
 				"pkief.material-icon-theme",
-				"aron-bond.better-comments"
+				"aron-bond.better-comments",
+				"google.geminicodeassist",
+				"google.gemini-cli-vscode-ide-companion"
 			],
 			"settings": {
 				"terminal.integrated.shell.linux": "/bin/bash"
