@@ -10,5 +10,19 @@
   "devDependencies": {
     "reveal.js": "^4.3.1",
     "vite": "^2.9.5"
-  }
+  },
+  "description": "This repository contains the source code for a static website hosted on GitHub Pages.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxheed/get-my-adrian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/boxheed/get-my-adrian/issues"
+  },
+  "homepage": "https://github.com/boxheed/get-my-adrian#readme"
 }

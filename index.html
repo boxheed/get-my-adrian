@@ -10,13 +10,29 @@
     <div class="reveal">
       <div class="slides">
         <section data-markdown="presentation.md"
-                data-separator="^\n\n\n"
-                data-separator-vertical="^\n\n"
+                data-separator="^---$"
+                data-separator-vertical="^--$"
                 data-separator-notes="^Note:"
                 data-charset="utf-8">
         </section>
       </div>
     </div>
-    <script type="module" src="./main.js"></script>
+
+    <!-- Reveal.js CSS from CDN -->
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/theme/simple.css" id="theme">
+
+    <!-- Reveal.js core and Markdown plugin from CDN (UMD) -->
+    <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+    <script src="https://unpkg.com/reveal.js/plugin/markdown/markdown.js"></script>
+
+    <script>
+      // Initialize Reveal using UMD globals
+      const deck = new Reveal({
+        hash: true,
+        plugins: [ RevealMarkdown ]
+      });
+      deck.initialize();
+    </script>
   </body>
 </html>
