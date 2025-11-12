@@ -27,5 +27,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          path: ./dist
