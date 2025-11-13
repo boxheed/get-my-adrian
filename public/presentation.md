@@ -1,12 +1,23 @@
 # Keeping the lights on <!-- .element: class="r-fit-text" -->
 
-![image](/get-my-adrian/adrian_bulb_overlay.png) <!-- .element: class="r-stretch" -->
+![image](/get-my-adrian/adrian_bulb_overlay.png) <!-- .element: class="r-stretch"-->
 
 ---
 
-## Key Concept 1
+## The Maintenance Merry-go-round <!-- .element: class="r-fit-text, fragment" data-fragment-index="1"-->
 
-This is a sub-point. Hitting the down arrow will show this.
+Patching <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
+
+Updating <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
+
+Migrating <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
+
+---
+
+## The craftmanship
+
+Custom Software <!-- .element: class="r-fit-text, fragment" data-fragment-index="1"-->
+
 
 ---
 
