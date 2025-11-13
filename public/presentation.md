@@ -1,6 +1,6 @@
-# Keeping the lights on
+# Keeping the lights on <!-- .element: class="r-fit-text" -->
 
-
+![image](/get-my-adrian/adrian_bulb_overlay.png) <!-- .element: class="r-stretch" -->
 
 ---
 
