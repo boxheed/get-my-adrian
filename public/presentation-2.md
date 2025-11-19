@@ -4,24 +4,37 @@
 
 ---
 
-## The Maintenance Merry-go-round <!-- .element: class="r-fit-text, fragment" data-fragment-index="1"-->
-
-Patching <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
-
-Updating <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
-
-Migrating <!-- .element: class="r-fit-text, fragment" data-fragment-index="2"-->
+## Maintenance 
 
 ---
 
-## The craftmanship
+## The problem?
 
-Custom Software <!-- .element: class="r-fit-text, fragment" data-fragment-index="1"-->
-
+Keeping dependencies up to date and fixing any errors that occur.
 
 ---
 
-### Detail 1.1
+## The process
+
+Github + Dependabot + CircleCI
+
+---
+
+## The workflow
+
+n8n + Gemini + Google Jules + Human in the loop
+
+---
+
+## The reality
+
+Agent to gather data is overkill
+
+Google Jules works very well
+
+---
+
+### Detail 
 
 This is another sub-point.
 
