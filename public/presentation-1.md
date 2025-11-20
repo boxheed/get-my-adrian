@@ -4,9 +4,16 @@
 
 ---
 
-## Maintenance 
+## Maintenance
 
-![image](/get-my-adrian/wack-a-mole.png) <!-- .element: class="fragment r-stretch fade-in"-->
+![image](/get-my-adrian/wack-a-mole.png) <!-- .element: class="fragment fade-in"-->
+
+
+---
+
+### Autonomous Dependency Remediation Agent
+
+![image](/get-my-adrian/adrian_hero.png) <!-- .element: class="fragment fade-in"-->
 
 ---
 
